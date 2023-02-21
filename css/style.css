@@ -1,0 +1,38 @@
+/*
+login page
+*/
+
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+.container {
+    column-count: 2;
+    
+}
+
+.left-container{
+
+    background-color: #13468E;
+    background-image: url(../img/front.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+    
+
+
+}
+
+
+
+
+
+
+/*
+footer section
+*/
+.footer{
+    display: flex;
+    justify-content: center;
+}
