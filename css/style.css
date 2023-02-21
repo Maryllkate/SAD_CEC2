@@ -7,27 +7,39 @@ login page
     padding: 0;
     border: 0;
 }
+
 .container {
     column-count: 2;
+    display: flex;
     
 }
 
-.left-container{
-
+.col-left{
     background-color: #13468E;
     background-image: url(../img/front.jpg);
-    background-size: cover;
-    background-repeat: no-repeat;
     height: 100vh;
-    
-
-
+    width: 50%;
+    background-position: left;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
+.right-banner{
+    background-color: #1B6CBC;
+    display: flex;
+    justify-content: center;
+    margin-top: 65px;
+    margin-bottom: 50px;
+    padding: 18px;
+}
 
-
-
-
+.col-right {
+    background-color: #13468E;
+    font-family: Arial;
+    color: #FFFFFF;
+    height: 100vh;
+    width: 50%;
+}
 
 /*
 footer section
