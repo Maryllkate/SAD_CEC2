@@ -21,13 +21,13 @@
                 <section class="login-section">
                     <div class="username">
                     <label for="username">Username</label> <br/>
-                    <input type="text" class="uname" placeholder="Enter Username" required> <br/>
+                    <input type="text" placeholder="Enter Username" required> <br/>
                     </div>
                     <div class="password">
                     <label for="password">Password</label> <br/>
-                    <input type="text" class="psw" placeholder="Enter Password" required> <br/>
+                    <input type="password" placeholder="Enter Password" required> <br/>
                     </div>
-                    <button type="login" class="login">login</button>
+                    <button type="login" class="btn btn-login">login</button>
                 </section>
             </form>
         </form>
