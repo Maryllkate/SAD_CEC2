@@ -4,8 +4,12 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<<<<<<< HEAD
 
     <!--CSS Stylesheets-->
+=======
+    <link rel="icon" type="image" href="img/acess_icon.png">
+>>>>>>> 1a71949d9081c1719948bf131552c3ddb5a9934d
     <link rel="stylesheet" href="css/style.css">
     <title>login</title>
 
