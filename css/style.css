@@ -11,10 +11,9 @@ login page
 .container {
     column-count: 2;
     display: flex;
-    
 }
 
-.col-left{
+.col-left {
     background-color: #13468E;
     background-image: url(../img/front.jpg);
     height: 100vh;
@@ -24,7 +23,7 @@ login page
     background-size: cover;
 }
 
-.right-banner{
+.right-banner {
     background-color: #1B6CBC;
     display: flex;
     justify-content: center;
@@ -47,17 +46,16 @@ login page
     font-family: monospace;
     font-size: 34px;
     margin: 20%;
-    
-    
 }
-input[type=text],[type=password] {
+
+input[type=text],
+[type=password] {
     width: 100%;
     padding: 10px 20px;
     border-radius: 16px;
     box-sizing: border-box;
     border: none;
     margin: 8px 0;
-
 }
 
 .btn-login {
@@ -71,28 +69,28 @@ input[type=text],[type=password] {
     text-align: center;
     display: block;
     margin: 0 auto;
-
 }
 
 .btn-login:hover {
     background-color: #1B6CBC;
     color: #FFFFFF;
-
 }
+
 
 /*
 dashboard page
 */
 
 
-
 /*
 footer section
 */
-.footer{
+
+.footer {
     display: flex;
     justify-content: center;
 }
+
 
 /* 
 responsive media

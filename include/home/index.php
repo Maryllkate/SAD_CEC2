@@ -1,5 +1,1 @@
-<?php
-
-echo "index";
-
-?>
+<div class="sidebar"></div>
