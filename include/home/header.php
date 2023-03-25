@@ -17,11 +17,20 @@
     <!---font icons-->
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.3.0/font/bootstrap-icons.css">
 
+    <!-- css stylesheets link -->
+    <link rel="stylesheet" href="../css/header.css" type="text/css" media="screen">
+
 </head>
 <body>
-    
-
-
+    <div class="container-fluid">
+        <nav class="navbar navbar-dark bg-dark">
+            <a class="navbar-brand" href="#">Dashboard</a>
+        </nav>
+        
+        <div class="header-dashboard">
+            dashboard
+        </div>
+    </div>
 
 </body>
 </html>

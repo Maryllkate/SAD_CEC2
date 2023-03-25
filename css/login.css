@@ -1,6 +1,4 @@
-/*
-login page
-*/
+/* login page */
 
 * {
     margin: 0;
@@ -75,23 +73,3 @@ input[type=text],
     background-color: #1B6CBC;
     color: #FFFFFF;
 }
-
-
-/*
-dashboard page
-*/
-
-
-/*
-footer section
-*/
-
-.footer {
-    display: flex;
-    justify-content: center;
-}
-
-
-/* 
-responsive media
-*/
