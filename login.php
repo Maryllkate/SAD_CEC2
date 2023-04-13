@@ -4,14 +4,12 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<<<<<<< HEAD
 
-    
-=======
     <link rel="icon" type="image" href="img/acess_icon.png">
->>>>>>> 1a71949d9081c1719948bf131552c3ddb5a9934d
+
     <!--CSS Stylesheets-->
     <link rel="stylesheet" href="css/style.css">
+
     <title>login</title>
 
 </head>
@@ -20,7 +18,7 @@
         <form class="col-left">
             
         </form>
-        <form class="col-right" action="./include/home/index.php" method="POST">
+        <form class="col-right" action="./include/home/dashboard.php" method="POST">
             <section class="right-banner">
             <h3>WELCOME</h3>
             </section>
@@ -44,5 +42,8 @@
         </form>
     </div>
     </section>
+
+ <!-- script link -->
+    <script src="js/script.js"></script>
 </body>
 </html>
