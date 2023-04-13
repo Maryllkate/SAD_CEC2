@@ -9,6 +9,11 @@
 
     <!--CSS Stylesheets-->
     <link rel="stylesheet" href="css/style.css">
+    
+    <link rel="icon" type="image" href="img/acess_icon.png">
+
+    <!--CSS Stylesheets-->
+    <link rel="stylesheet" href="css/style.css" type="text/css">
 
     <title>login</title>
 
