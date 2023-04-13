@@ -8,12 +8,9 @@
     <link rel="icon" type="image" href="img/acess_icon.png">
 
     <!--CSS Stylesheets-->
-    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="./css/style.css" type="text/css" media="screen">
     
     <link rel="icon" type="image" href="img/acess_icon.png">
-
-    <!--CSS Stylesheets-->
-    <link rel="stylesheet" href="css/style.css" type="text/css">
 
     <title>login</title>
 
@@ -23,7 +20,7 @@
         <form class="col-left">
             
         </form>
-        <form class="col-right" action="./include/home/dashboard.php" method="POST">
+        <form class="col-right" action="./dashboard.php" method="POST">
             <section class="right-banner">
             <h3>WELCOME</h3>
             </section>

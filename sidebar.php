@@ -18,15 +18,19 @@
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.3.0/font/bootstrap-icons.css">
 
     <!-- css stylesheets link -->
-    <link rel="stylesheet" href="..css/style.css" type="text/css" media="screen">
+    <link rel="stylesheet" href="./css/style.css" type="text/css" media="screen">
 
 </head>
 <body>
-    <div id="container-fluid">
-        <nav class="navbar navbar-dark bg-dark">
-            <a class="navbar-brand brand" href="#"></a>
+    <div id="container-fluid sidebar">
+        <nav class="navbar navbar-light-grey navbar-bar-block bg-light">
+            <h3 class="dashboard-text">Dashboard</h3>
+                <a href="#" class="w3-bar-item w3-button">Menu Item 1</a>
+                <a href="#" class="w3-bar-item w3-button">Menu Item 2</a>
+                <a href="#" class="w3-bar-item w3-button">Menu Item 3</a>
         </nav>
     </div>
 
 </body>
 </html>
+
