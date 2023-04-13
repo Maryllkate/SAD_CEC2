@@ -91,5 +91,14 @@ input[type=text],
 
 .selection-menus {
     position: relative;
-    padding: 10px 17px;
+    padding: 10px 20px;
+}
+
+ul {
+    list-style: none;
+}
+
+.item {
+    text-align: left;
+    background-color: orange;
 }
