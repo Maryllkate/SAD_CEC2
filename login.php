@@ -17,10 +17,10 @@
 </head>
 <body>
     <div class="container"> 
-        <form class="col-left">
-            
-        </form>
-        <form class="col-right" action="./dashboard.php" method="POST">
+        <div class="col-left">
+            <img class="front-image" src="img/front.jpg" alt="front-image">
+        </div>
+        <div class="col-right" action="./dashboard.php" method="POST">
             <section class="right-banner">
             <h3>WELCOME</h3>
             </section>
@@ -41,7 +41,7 @@
                     <span>login</span>
                 </button>
 
-        </form>
+        </div>
     </div>
     </section>
 
