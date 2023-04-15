@@ -20,6 +20,7 @@
         <div class="col-left">
             <img class="front-image" src="img/front.jpg" alt="front-image">
         </div>
+        
         <div class="col-right" action="./dashboard.php" method="POST">
             <section class="right-banner">
             <h3>WELCOME</h3>
@@ -28,12 +29,12 @@
             <section class="login-section">
 
                 <div class="username">
-                <label for="username">Username</label> <br/>
+                <label for="username">Username</label>
                 <input type="text" class="ant-input text-input error" placeholder="Enter Username" required>
                 </div>
 
                 <div class="password">
-                <label for="password">Password</label> <br/>
+                <label for="password">Password</label>
                 <input type="password" class="ant-input text-input error" placeholder="Enter Password" required>
                 </div>
     
@@ -41,9 +42,11 @@
                     <span>login</span>
                 </button>
 
+            </section>
+
         </div>
     </div>
-    </section>
+    
 
  <!-- script link -->
     <script src="js/script.js"></script>
