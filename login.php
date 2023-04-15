@@ -24,9 +24,9 @@
         <div class="col-right" action="./dashboard.php" method="POST">
             <section class="right-banner">
             <h3>WELCOME</h3>
-            </section>
+        </div>
 
-            <section class="login-section">
+            <div class="login-section">
 
                 <div class="username">
                 <label for="username">Username</label>
@@ -42,7 +42,7 @@
                     <span>login</span>
                 </button>
 
-            </section>
+            </div>
 
         </div>
     </div>
