@@ -1,10 +1,15 @@
 <?php include 'header.php' ?>
 
+    <!--CSS Stylesheets-->
+<link rel="icon" type="image" href="img/dashboard_icon.png">
+
+<title>Menu Dashboard</title>
+
+
 <body>
     <div id="container-fluid">
         <div class="sidebar">
-        <nav class="navbar navbar-bar-block bg-white">
-           <header class="dashboard-text"><h3>Menu Selection</h3></header>
+           <header class="dashboard-text text-center"><h2>Menu Selection</h2></header>
                 <div class="selection-menus">
                     <ul>
                         <li>
@@ -39,7 +44,6 @@
                         </li>
                     </ul>
                 </div>
-        </nav>
         </div>
 
 

@@ -5,8 +5,6 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <link rel="icon" type="image" href="img/acess_icon.png">
-
     <!--CSS Stylesheets-->
     <link rel="stylesheet" href="./css/style.css" type="text/css" media="screen">
     
@@ -23,8 +21,8 @@
         
         <div class="col-right" action="./dashboard.php" method="POST">
             <div class="right-banner">
-            <h3>WELCOME</h3>
-        </div>
+                <h3>WELCOME</h3>
+            </div>
 
             <div class="login-section">
 
