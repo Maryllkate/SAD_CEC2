@@ -1,6 +1,10 @@
 <?php include 'header.php' ?>
 
+    <!--CSS Stylesheets-->
 <link rel="icon" type="image" href="img/dashboard_icon.png">
+
+<title>Menu Dashboard</title>
+
 
 <body>
     <div id="container-fluid">
