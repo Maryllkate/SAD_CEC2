@@ -96,18 +96,14 @@ input[type=text],
     margin-left: 20%;
 }
 
-.selection-menus {
-    position: relative;
-}
-
 ul,
 li {
     list-style: none;
-    padding: 17px 22px;
+    padding: 8% 10%;
     background-color: #93C2FF;
 }
 
 .item {
-    text-align: left;
+    text-align: center;
     font-size: 25px;
 }
