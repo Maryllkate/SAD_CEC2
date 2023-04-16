@@ -22,7 +22,7 @@
         </div>
         
         <div class="col-right" action="./dashboard.php" method="POST">
-            <section class="right-banner">
+            <div class="right-banner">
             <h3>WELCOME</h3>
         </div>
 
