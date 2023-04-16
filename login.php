@@ -23,8 +23,8 @@
         
         <div class="col-right" action="./dashboard.php" method="POST">
             <div class="right-banner">
-            <h3>WELCOME</h3>
-        </div>
+                <h3>WELCOME</h3>
+            </div>
 
             <div class="login-section">
 

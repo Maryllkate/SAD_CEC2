@@ -1,5 +1,7 @@
 <?php include 'header.php' ?>
 
+<link rel="icon" type="image" href="img/dashboard_icon.png">
+
 <body>
     <div id="container-fluid">
         <div class="sidebar">
