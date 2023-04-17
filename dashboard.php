@@ -1,9 +1,9 @@
 <?php include 'sidebar.php' ?>
 
 
-<div class="dashboard-left">
+    <div class="dashboard-left">
     
-</div>
+    </div>
 
 </div>
 </body>
