@@ -8,7 +8,7 @@
     <!--CSS Stylesheets-->
     <link rel="stylesheet" href="./css/style.css" type="text/css" media="screen">
     
-    <link rel="icon" type="image" href="img/acess_icon.png">
+    <link rel="icon" type="image" href="img/admin_icon.png">
 
     <title>login</title>
 

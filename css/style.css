@@ -126,3 +126,11 @@ a:link {
 
 
 /* Accessability */
+
+.new-users {
+    position: absolute;
+}
+
+.current-users {
+    position: absolute;
+}

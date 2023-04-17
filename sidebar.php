@@ -19,7 +19,7 @@
                             </a>
                         </li>
                         <li>
-                            <a href="./Accessability.php">
+                            <a href="./accessability.php">
                                 <span class="icon"><i class=""></i></span>
                                 <span class="item">Accessability</span>
                             </a>
