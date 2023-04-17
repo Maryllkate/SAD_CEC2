@@ -13,31 +13,31 @@
                 <div class="selection-menus">
                     <ul>
                         <li>
-                            <a href="#" class="active">
+                            <a href="./dashboard.php" class="active">
                                 <span class="icon"><i class=""></i></span>
                                 <span class="item">Dashboard</span>
                             </a>
                         </li>
                         <li>
-                            <a href="#">
+                            <a href="./Accessability.php">
                                 <span class="icon"><i class=""></i></span>
                                 <span class="item">Accessability</span>
                             </a>
                         </li>
                         <li>
-                            <a href="#">
+                            <a href="./inventory.php">
                                 <span class="icon"><i class=""></i></span>
                                 <span class="item">Inventory</span>
                             </a>
                         </li>
                         <li>
-                            <a href="#">
+                            <a href="./product_location.php">
                                 <span class="icon"><i class=""></i></span>
                                 <span class="item">Product Location</span>
                             </a>
                         </li>
                         <li>
-                            <a href="#">
+                            <a href="reports.php">
                                 <span class="icon"><i class=""></i></span>
                                 <span class="item">Reports</span>
                             </a>
