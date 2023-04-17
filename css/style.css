@@ -82,7 +82,7 @@ input[type=text],
 }
 
 
-/*sidebar menu */
+/*sidebar menu | selection menu*/
 
 .sidebar {
     position: absolute;
@@ -94,12 +94,6 @@ input[type=text],
 .dashboard-text {
     color: #FFFFFF;
     margin: 22px;
-}
-
-.dashboard-left {
-    background-color: #93C2FF;
-    height: 100vh;
-    margin-left: 20%;
 }
 
 ul,
@@ -116,3 +110,19 @@ li {
 a:link {
     text-decoration: none;
 }
+
+
+/* dashboard */
+
+.dashboard-left,
+.accessability-left,
+.inventory-left,
+.product_location-left,
+.reports-left {
+    background-color: #93C2FF;
+    height: 100vh;
+    margin-left: 20%;
+}
+
+
+/* Accessability */

@@ -1,8 +1,8 @@
 <?php include 'sidebar.php' ?>
 
 
-    <div class="Accessability-left">
-        
+    <div class="accessability-left">
+        this is accessability
     </div>
 
 </div>
