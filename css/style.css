@@ -1,136 +1,149 @@
-/* login page */
-
-* {
-    margin: 0;
-    padding: 0;
-    border: 0;
-    box-sizing: border-box;
-}
-
-body {
-    min-height: 100vh;
-}
-
-.container {
-    display: flex;
-    column-count: 2;
-    height: 100vh;
-}
-
-.col-left {
-    background-color: #13468E;
-}
-
-.front-image {
-    height: 100%;
-    width: 100%;
-    object-fit: cover;
-}
-
-.right-banner {
-    background-color: #1B6CBC;
-    display: flex;
-    justify-content: center;
-    margin-top: 65px;
-    margin-bottom: 65px;
-    padding: 25px;
-    font-family: 'Roboto', sans-serif;
-    font-size: 35px;
-}
-
-.col-right {
-    background-color: #13468E;
-    font-family: Arial;
-    color: #FFFFFF;
-    height: 100%;
-    width: 100%;
-}
-
-.login-section {
-    font-family: monospace;
-    font-size: 34px;
-    margin: 10%;
-    padding: 10%;
-}
-
-input[type=text],
-[type=password] {
-    width: 100%;
-    padding: 10px 20px;
-    border-radius: 16px;
-    box-sizing: border-box;
-    border: none;
-    margin: 8px 0;
-}
-
-.btn-login {
-    background-color: #5EDBF9;
-    color: black;
-    font-family: Arial, Helvetica, sans-serif;
-    font-size: 20px;
-    border-radius: 25px;
-    padding: 2% 7.5%;
-    cursor: pointer;
-    text-align: center;
-    display: block;
-    margin: 0 auto;
-}
-
-.btn-login:hover {
-    background-color: #1B6CBC;
-    color: #FFFFFF;
-}
-
-
-/*sidebar menu | selection menu*/
-
-.sidebar {
-    position: absolute;
-    background-color: #1B6CBC;
-    height: 100vh;
-    width: 20%;
-}
-
-.dashboard-text {
-    color: #FFFFFF;
-    margin: 22px;
-}
-
-ul,
-li {
-    background-color: #FFFFFF;
-    list-style: none;
-    padding: 8% 10%;
-}
-
-.item {
-    font-size: 25px;
-}
-
-a:link {
-    text-decoration: none;
-}
-
-
-/* dashboard */
-
-.dashboard-left,
-.accessability-left,
-.inventory-left,
-.product_location-left,
-.reports-left {
-    background-color: #93C2FF;
-    height: 100vh;
-    margin-left: 20%;
-}
-
-
-/* Accessability */
-
-.new-users {
-    position: absolute;
-}
-
-.current-users {
-    position: absolute;
-}
+    /* login page */
+    
+    * {
+        margin: 0;
+        padding: 0;
+        border: 0;
+        box-sizing: border-box;
+    }
+    
+    .container {
+        display: flex;
+        column-count: 2;
+        height: 100vh;
+    }
+    
+    .col-left {
+        background-color: #13468E;
+    }
+    
+    .front-image {
+        display: block;
+        height: 100%;
+        width: 100%;
+        object-fit: cover;
+    }
+    
+    .right-banner {
+        background-color: #1B6CBC;
+        display: flex;
+        justify-content: center;
+        margin-top: 65px;
+        margin-bottom: 65px;
+        padding: 25px;
+        font-family: 'Roboto', sans-serif;
+        font-size: 35px;
+    }
+    
+    .col-right {
+        background-color: #13468E;
+        font-family: Arial;
+        color: #FFFFFF;
+        width: 100%;
+    }
+    
+    .right-parent-login-section {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    
+    .login-section {
+        font-family: monospace;
+        font-size: 34px;
+    }
+    
+    input[type=text],
+    [type=password] {
+        width: 100%;
+        padding: 10px 20px;
+        border-radius: 16px;
+        box-sizing: border-box;
+        border: none;
+        margin: 8px 0;
+    }
+    
+    .username,
+    .password {
+        padding: 20px;
+    }
+    
+    .btn-login {
+        background-color: #5EDBF9;
+        color: black;
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 20px;
+        border-radius: 25px;
+        padding: 2% 7.5%;
+        cursor: pointer;
+        text-align: center;
+        display: block;
+        margin: 0 auto;
+    }
+    
+    .btn-login:hover {
+        background-color: #1B6CBC;
+        color: #FFFFFF;
+    }
+    /*sidebar menu | selection menu*/
+    
+    .sidebar {
+        position: absolute;
+        background-color: #1B6CBC;
+        width: 20%;
+        height: 100vh;
+    }
+    
+    .dashboard-text {
+        color: #FFFFFF;
+        margin: 25px;
+    }
+    
+    ul,
+    li {
+        background-color: #FFFFFF;
+        list-style: none;
+        padding: 8%;
+    }
+    
+    .item {
+        font-size: 25px;
+    }
+    
+    a:link {
+        text-decoration: none;
+    }
+    /* dashboard */
+    
+    .dashboard-left,
+    .accessability-left,
+    .inventory-left,
+    .product_location-left,
+    .reports-left {
+        background-color: #93C2FF;
+        height: 100vh;
+        margin-left: 20%;
+    }
+    /* Accessability */
+    
+    .accessability-left {
+        display: flex;
+        flex-direction: row;
+    }
+    
+    .header-new-users,
+    .header-current-users {
+        padding-bottom: 10px;
+    }
+    
+    .new-users,
+    .current-users {
+        flex: 50%;
+        padding: 20px;
+    }
+    
+    .new-users {}
+    
+    .btn-register {}
+    
+    .current-users {}

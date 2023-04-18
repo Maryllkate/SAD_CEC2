@@ -10,6 +10,7 @@
     <div id="container-fluid">
         <div class="sidebar">
            <header class="dashboard-text text-center"><h2>Menu Selection</h2></header>
+           <div class="selection-container">
                 <div class="selection-menus">
                     <ul>
                         <li>
@@ -44,6 +45,7 @@
                         </li>
                     </ul>
                 </div>
+            </div>
         </div>
 
 
