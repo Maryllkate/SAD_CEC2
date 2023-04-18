@@ -15,29 +15,28 @@
 </head>
 <body>
     <div class="container"> 
-
         <div class="col-left">
             <img class="front-image" src="img/front.jpg" alt="front-image">
         </div>
         
-        <div class="col-right" action="./dashboard.php" method="POST">
+        <form class="col-right" action="./dashboard.php" method="POST">
 
             <div class="right-banner">
                 <h3>WELCOME</h3>
             </div>
-
+            
             <div class="right-parent-login-section">
 
                 <div class="login-section">
 
                     <div class="username">
                         <label for="username">Username</label>
-                        <input type="text" class="ant-input text-input error" placeholder="Enter Username" required>
+                        <input type="text" class="ant-input text-input-error" placeholder="Enter Username" required>
                     </div>
 
                     <div class="password">
                         <label for="password">Password</label>
-                        <input type="password" class="ant-input text-input error" placeholder="Enter Password" required>
+                        <input type="password" class="ant-input text-input-error" placeholder="Enter Password" required>
                     </div>
     
                     <button type="login" class="btn btn-login">
@@ -47,7 +46,7 @@
                 </div>
             </div>
 
-        </div>
+        </form>
     </div>
     
 
