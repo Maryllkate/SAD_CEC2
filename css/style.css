@@ -145,8 +145,7 @@
     .new-users {
         padding: 20px;
     }
-    
-    #usertypes {
+    /* #usertypes {
         color: #13468E;
         background-color: #FFFFFF;
         border-radius: 13px;
@@ -157,7 +156,7 @@
     #usertypes:hover {
         color: #FFFFFF;
         background-color: #13468E;
-    }
+    } */
     
     .btn-register {
         display: block;
