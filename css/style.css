@@ -126,6 +126,10 @@
     }
     /* Accessability */
     
+    .create-new-user {
+        position: relative;
+    }
+    
     .accessability-left {
         display: flex;
         flex-direction: row;
@@ -145,6 +149,10 @@
     .new-users {
         padding: 20px;
     }
+    
+    .dropdown {
+        position: absolute;
+    }
     /* #usertypes {
         color: #13468E;
         background-color: #FFFFFF;
@@ -159,12 +167,9 @@
     } */
     
     .btn-register {
-        display: block;
-        margin: 0 auto;
-        padding: 10px 20px;
+        float: right;
     }
     
     .current-users {
         height: 30%;
-        width: 30%;
     }

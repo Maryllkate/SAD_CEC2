@@ -27,14 +27,14 @@
             
             <div class="right-parent-login-section">
 
-                <div class="login-section">
+                <div class="form-group login-section">
 
-                    <div class="username">
+                    <div class="form-control username">
                         <label for="username">Username</label>
                         <input type="text" class="ant-input text-input-error" placeholder="Enter Username" required>
                     </div>
 
-                    <div class="password">
+                    <div class="form-control password">
                         <label for="password">Password</label>
                         <input type="password" class="ant-input text-input-error" placeholder="Enter Password" required>
                     </div>
