@@ -172,6 +172,7 @@
     
     .btn-register {
         float: right;
+        padding: 8px 15px;
     }
     
     .current-users {

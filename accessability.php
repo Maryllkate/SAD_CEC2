@@ -31,10 +31,9 @@
                             <option value="Administrator">Supervisor</option>
                             <option value="Administrator">Staff</option>
                          </select> -->
-                        <button type="register" class="btn btn-primary btn-register">
-                        <span>Register</span>
-                        </button>
-
+                            <button type="register" class="btn btn-primary btn-register">
+                            <span>Register</span>
+                            </button>
                     </form>
                 </form>
             </div>
