@@ -32,7 +32,7 @@
                             </a>
                         </li>
                         <li>
-                            <a href="./product_location.php">
+                            <a href="./product_model.php">
                                 <span class="icon"><i class="bi bi-geo-fill"></i></span>
                                 <span class="item">Product Model</span>
                             </a>
