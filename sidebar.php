@@ -34,7 +34,7 @@
                         <li>
                             <a href="./product_location.php">
                                 <span class="icon"><i class="bi bi-geo-fill"></i></span>
-                                <span class="item">Product Location</span>
+                                <span class="item">Product Model</span>
                             </a>
                         </li>
                         <li>
