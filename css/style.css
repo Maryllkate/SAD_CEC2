@@ -187,10 +187,6 @@
         box-sizing: border-box;
     }
 
-    /* .searchbar  {
-        float: right;
-    } */
-
     .selection-categories {
         display: flex;
         flex-wrap: wrap;
@@ -208,7 +204,6 @@
     }
     
     .grp-searchbar {
-        float: right;
         display: flex;
     }
     
@@ -232,5 +227,6 @@
         padding: 10px;
     }
 
+    /* images from inventory */
 
 
