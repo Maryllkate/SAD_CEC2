@@ -190,7 +190,7 @@
     .selection-categories {
         display: flex;
         flex-wrap: wrap;
-        justify-content: flex-start;
+        margin: 8px 5px;
     }
 
     .input-group-text {
