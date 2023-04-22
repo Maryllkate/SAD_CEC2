@@ -100,7 +100,7 @@
     
     .dashboard-text {
         color: #FFFFFF;
-        margin: 25px;
+        margin: 24px;
     }
     
     ul,
@@ -178,3 +178,25 @@
     .current-users {
         height: 30%;
     }
+
+    /* product model */
+
+    .con-product-model {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+    }
+
+    .categories,
+    .sorting {
+        padding: 8px;
+    }
+
+    .searchbar  {
+        float: right;
+    }
+
+
+
+
+

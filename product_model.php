@@ -2,7 +2,20 @@
 
 
     <div class="product_location-left">
-        this is where three.js will be implemented
+        <div class="container-fluid con-product-model">
+            <div class="categories">
+                dropdown selections from categories
+            </div>
+            <div class="sorting">
+                sorting by of products
+                <div class="searchbar">
+                    searchbar floating in right
+                </div>
+            </div>
+            <div class="product-images inventory-images">
+                    images from inventory
+            </div>
+        </div>
     </div>
 
 </div>

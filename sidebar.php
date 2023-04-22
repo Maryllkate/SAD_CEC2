@@ -9,7 +9,7 @@
 <body>
     <div id="container-fluid">
         <div class="sidebar">
-           <header class="dashboard-text text-center"><h2>Menu Selection</h2></header>
+           <header class="dashboard-text text-center"><h3>Menu Selection</h3></header>
            <div class="selection-container">
                 <div class="selection-menus">
                     <ul>
