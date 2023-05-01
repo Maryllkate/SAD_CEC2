@@ -4,7 +4,7 @@
     $servername = "localhost";
     $username = "root";
     $password = "";
-    $database = "system";
+    $database = "inventory_databasec: ";
 
     $conn = mysqli_connect($servername, 
                            $username,
@@ -15,6 +15,4 @@
     if (!$conn) {
         die ("Connection failed : " . mysqli_connect_error());
     }
-    echo "Connection success";
-
 ?>

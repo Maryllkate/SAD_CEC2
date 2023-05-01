@@ -1,3 +1,8 @@
+<?php
+    require_once('./conn/conn.php');
+    
+?>
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -31,15 +36,15 @@
 
                     <div class="form-control username">
                         <label for="username">Username</label>
-                        <input type="text" class="ant-input text-input-error" placeholder="Enter Username" required>
+                        <input type="text" name="username" class="ant-input text-input-error" placeholder="Enter Username" required>
                     </div>
 
                     <div class="form-control password">
                         <label for="password">Password</label>
-                        <input type="password" class="ant-input text-input-error" placeholder="Enter Password" required>
+                        <input type="password" name="password" class="ant-input text-input-error" placeholder="Enter Password" required>
                     </div>
     
-                    <button type="login" class="btn btn-login">
+                    <button type="login" name="login" class="btn btn-login">
                         <span>login</span>
                     </button>
 

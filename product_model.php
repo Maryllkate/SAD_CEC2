@@ -17,7 +17,7 @@
 
                     <div class="input-group">
                         <div class="selection-categories input-group-prepend">
-                            <label class="input-group-text" for="inputGroupSelect01">Select Categories</label>
+                            <label class="input-group-text" for="inputGroupSelect01">Select Levels</label>
                                 <select id="inputGroupSelect01" class="custom-select">
                                     <option selected>Choose...</option>
                                     <option value="1">One</option>
