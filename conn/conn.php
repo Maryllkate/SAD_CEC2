@@ -4,7 +4,7 @@
     $servername = "localhost";
     $username = "root";
     $password = "";
-    $database = "inventory_database ";
+    $database = "inventory_database";
 
     $conn = mysqli_connect($servername, 
                            $username,
